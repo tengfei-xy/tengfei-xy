@@ -12,3 +12,5 @@
 | [Swift](https://www.wolai.com/tengfei-xy/eKGeTBSUsD9uTzxdEJU1xV) | [图形化管理命令行进程](https://github.com/tengfei-xy/ivisor) |
 | TypeScript                                                   | [思源笔记分享工具插件](https://github.com/tengfei-xy/siyuan-plugin-share-system) |
 
+### Github统计
+![tengfei-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tengfei-xy&show_icons=true&theme=transparent)
