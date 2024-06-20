@@ -10,7 +10,7 @@
 | [Java](https://www.wolai.com/tengfei-xy/w8hCZgfZpt4ngV4K3byyZe) | [bilbil视频链接导出](https://github.com/tengfei-xy/bilbilVideoExport)、VPS管理系统 |
 | [Shell script](https://www.wolai.com/tengfei-xy/au4aJoag7ZPMiUbCU3nfQG) | [硬盘状态统计](https://github.com/tengfei-xy/diskstats)、[九江学院在线课程](https://github.com/tengfei-xy/JiuJiangOnlineCourse)、[国家开放大学在线课程](https://github.com/tengfei-xy/GJKFOnlieCourse)、[天津理工大学在线课程](https://github.com/tengfei-xy/TJLGOnlineCourse)、[重庆理工大学在线课程](https://github.com/tengfei-xy/CQLGOnlineCourse)、[主流数据库的启停脚本](https://github.com/tengfei-xy/dbshell) 、[etcd管理脚本](https://github.com/tengfei-xy/etcd_manage)、[佛山科学技术学院在线课程](https://github.com/tengfei-xy/FoShanOnlieCourse)|
 | [Swift](https://www.wolai.com/tengfei-xy/eKGeTBSUsD9uTzxdEJU1xV) | [图形化管理命令行进程](https://github.com/tengfei-xy/ivisor) |
-| TypeScript                                                   | [思源笔记-分享笔记插件](https://github.com/tengfei-xy/siyuan-plugin-share-system) |
+| [TypeScript](https://www.wolai.com/tengfei-xy/m6iQbWbU5efLyi8MjghzFo)                                                   | [思源笔记-分享笔记插件](https://github.com/tengfei-xy/siyuan-plugin-share-system) |
 
 ### Github统计
 ![tengfei-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tengfei-xy&show_icons=true&theme=transparent)
