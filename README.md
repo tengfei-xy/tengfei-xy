@@ -15,4 +15,4 @@
 ### Github统计
 ![tengfei-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tengfei-xy&show_icons=true&theme=transparent)
 
-捐赠：爱发电：[入口](https://afdian.com/a/tengfei-xy)
+爱发电：[捐赠](https://afdian.com/a/tengfei-xy)
